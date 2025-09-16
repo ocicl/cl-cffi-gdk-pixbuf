@@ -4,6 +4,6 @@ cl-cffi-gdk-pixbuf is a Lisp binding to the GdkPixbuf library.
 
 |---------+--------------------------------------------------------|
 | source  | git:https://github.com/crategus/cl-cffi-gdk-pixbuf.git |
-| commit  | bab97ed                                                |
+| commit  | 3e01f42                                                |
 | systems | cl-cffi-gdk-pixbuf                                     |
 |---------+--------------------------------------------------------|
